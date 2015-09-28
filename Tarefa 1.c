@@ -43,5 +43,10 @@ int main(){
 		};
 	};
 	printf("A menor diferenca eh %d",m);
+	for(i=0;i<n;i++){
+		if(vet[i+1]-vet[i]==m){
+			printf("%d",i);
+		}
+	}
 	free(vet);
 }
