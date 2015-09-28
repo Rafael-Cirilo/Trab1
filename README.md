@@ -6,9 +6,9 @@ DADOS:
   Todos os programas desse repositório foram desenvolvidos no Windows 8 ,64 bits, utilizando o compilador Dev=C++.Foram utilizadas as bibliotecas padrão "stdio.h" e "stdlib.h" O repositório possui três arquivos que podem ser executados através de seus arquivos do tipo .exe.
   
 DESCRIÇÃO DOS PROJETOS:
-1)O programa pedirá que o usuário entre com n números inteiros e imprimirá os números cuja diferença em módulo é a menor entre todas as possíveis;
-2)O programa pedirá que o usuário entre com n números inteiros e imprimirá os números que foram digitados apenas uma única vez;
-3)O programa pedirá que o usuário entre com n números inteiros e imprimirá os números que ocorrem em maior frequência.
+- 1)O programa pedirá que o usuário entre com n números inteiros e imprimirá os números cuja diferença em módulo é a menor entre todas as possíveis;
+- 2)O programa pedirá que o usuário entre com n números inteiros e imprimirá os números que foram digitados apenas uma única vez;
+- 3)O programa pedirá que o usuário entre com n números inteiros e imprimirá os números que ocorrem em maior frequência.
 
 INSTRUÇÕES:
 1)Como compilar e executar?
