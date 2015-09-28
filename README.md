@@ -1,24 +1,24 @@
-# Trab1
-Trabalho de LPA
-Nome: Rafael Cirilo da Silva
-NºUSP: 9311618
-Engenharia Mecânica
-Github username: Rafael Cirilo
+TRABALHO 1 - LINGUAGENS DE PROGRAMAÇÃO E APLICAÇÕES - SSC0300 - curso de Engenharia Mecânica da USP-São Carlos
+Alunos: 
+-Ordem 1: Rafael Cirilo        NºUSP:9311618
+-Ordem 2: Victor Augusto Sato  NºUSP 9311841
 
-Os programas contidos nesta pasta são as resoluções dos exercícios propospostos pelo professor Adenilso da Silva Simão
-da matéria de Linguagens de Programação e Aplicações do curso de Engenharia Mecânica da USP-São Carlos.
+DADOS:
+- Código-fonte:
+- Biblioteca:stdio.h
+- e.g ambiente de desenvolvimento: Dev-C++
+- Compilador usado:
+- Parâmetros de compilação:
+- Plataforma de compilação da versão binária:
 
-Tutorial de como compilar o código
 
-Com a utilização do programa Dev C++, o programa deve ser executado no menu Executar, no comando Compilar, sendo que após a primeira
-compilação  não é mais necessário compilar o código.
+INSTRUÇÕES:
+1)Como compilar e executar?
 
-Tutorial de como usar o programa
+Abrindo o programa Dev-C++, em 'Arquivos', clique em 'Abrir' para abrir o arquivo.
+Em 'Ferramentas' clicar em 'Compilar & Executar', ou apertar F11; para o projeto ser compilado e executado.
 
-Tarefa 1
- Par mais próximo.
- 
- Esse programa 
+2)Execução
 
-Arquitetura onde a versão compilada foi gerada
-Parâmetros de compilação
+Ao serem executados, os programas deverão ter entradas padrões com números inteiros.
+Cada um dos programas imprimirá na tela pedindo os dados a serem lidos
